@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driemtax&label=Profile%20views&color=0e75b6&style=flat" alt="driemtax" /> </p>
 
-- 🔭 I’m currently working on [a virus simulation for a uni project](https://github.com/N3moAhead/BioCollapse)
+- 🔭 I’m currently working on [a networking management app](https://github.com/Driemtax/connect2)
 
-- 🌱 I’m currently learning **IoT Projects**
+- 🌱 I’m currently learning **IoT Projects** and **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
