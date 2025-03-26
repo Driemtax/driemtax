@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a networking management app](https://github.com/Driemtax/connect2)
 
-- 🌱 I’m currently learning **IoT Projects** and **Rust**
+- 🌱 I’m currently learning **GO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
