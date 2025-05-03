@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driemtax&label=Profile%20views&color=0e75b6&style=flat" alt="driemtax" /> </p>
 
-- 🔭 I’m currently working on [a self implemanted shell](https://github.com/Driemtax/codecrafters-shell-go)
+- 🔭 I’m currently working on [a multiplayer arcade game platform](https://github.com/Driemtax/Archaide)
 
 - 🌱 I’m currently learning **GO**
 
