@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driemtax&label=Profile%20views&color=0e75b6&style=flat" alt="driemtax" /> </p>
 
-- 🔭 I’m currently working on [a CHIP-8 emulator](https://github.com/Driemtax/chip8)
+- 🔭 I’m currently working on [a CHIP-8 emulator](https://github.com/Driemtax/chip-8)
 
 - 🌱 I’m currently learning **GO**
 
