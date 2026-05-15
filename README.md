@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=driemtax&label=Profile%20views&color=0e75b6&style=flat" alt="driemtax" /> </p>
 
-- 🔭 I’m currently working on [a CHIP-8 emulator](https://github.com/Driemtax/chip-8)
+- 🔭 I’m currently working on a tool for [Automatic Chord Recognition](https://github.com/Driemtax/ACR) as part of my bachelor thesis.
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
